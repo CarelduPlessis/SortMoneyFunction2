@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortMoneyFunction2", "SortMoneyFunction2\SortMoneyFunction2.csproj", "{24ECAA0A-C77E-4D85-A02C-4E6A8177895D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24ECAA0A-C77E-4D85-A02C-4E6A8177895D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24ECAA0A-C77E-4D85-A02C-4E6A8177895D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24ECAA0A-C77E-4D85-A02C-4E6A8177895D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24ECAA0A-C77E-4D85-A02C-4E6A8177895D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3AF4C8E-DF2C-43C9-AEC4-D7B70B92D399}
+	EndGlobalSection
+EndGlobal
